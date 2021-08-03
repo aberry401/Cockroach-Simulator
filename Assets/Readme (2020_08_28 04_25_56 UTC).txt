@@ -1,0 +1,18 @@
+Cockroach Simulator
+
+-First scene is the menu where you'll open to a title and buttons taking you to the first level and credits
+-Credits scene contains just the credits and then back to the main menu
+
+-First Level (Andrew Berry)
+Using the up/down arrow keys to move and the left/right arrow keys to rotate, collect as many bread crumbs as you can
+without alerting the wandering Robot Kyle to your presence. You can hide in the shadows of the furniture to
+avoid being spotted or to stop him from chasing you, and you can see where Kyle is at all times by looking at the minimap. 
+You will know you are being chased because Roachy will turn red and an alert sound will play. 
+Make it into the room's air vent and continue through to end the level where you will be
+given a score based off the number of breadcrumbs you collected and your remaining health.
+
+
+-Second Level(Noah Johanson)
+My level is played by using the up arrow to go forward, down to go back, and left and right to rotate
+Avoid the toxic cans and kyle behind you
+Traverse the level all the way to the end and you'll see a mouse hole which is the win condition for escaping 

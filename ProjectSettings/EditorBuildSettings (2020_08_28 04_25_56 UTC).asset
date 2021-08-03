@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Andrew.unity
+    guid: 975518a1405d0084c8ad0d2ee7c45e0f
+  - enabled: 1
+    path: Assets/Scenes/Noah Johanson.unity
+    guid: a809edd235236ad43bcceb6b77ac9861
+  - enabled: 1
+    path: Assets/Scenes/John.unity
+    guid: 8f9812a6e8c8ea842ae41496233963ec
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 98b3cc9fe18c7b04990a0fbf91fe1503
+  - enabled: 1
+    path: Assets/Scenes/Transition.unity
+    guid: e77426c0005f74e41ab3133e7ae174e7
+  - enabled: 1
+    path: Assets/Scenes/NJTransition.unity
+    guid: 80a01c694fc1a264f86eee711807b8b8
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: e66bec8c4f38db844a5611b224791cbe
+  m_configObjects: {}
